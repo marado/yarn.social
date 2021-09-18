@@ -1,13 +1,13 @@
 ---
 title: Yarn.social
-keywords: yarn, social media, twtxt, decentralised, privacy first
+keywords: yarn, social media, twtxt, decentralized, privacy first
 ---
 
 # Yarn.social
 
 <img align="left" width="100" height="100" src="/logo.png" style="padding-right: 5pt" />
 
-[Yarn.social](https://yarn.social) is a decentralised self-hosted social media
+[Yarn.social](https://yarn.social) is a decentralized self-hosted social media
 that has a privacy-first focus.
 
 There are no ads, no tracking and no personal information is ever collected or stored.
@@ -59,7 +59,7 @@ and participate in the growing numbers of users and conversations is:
 
 ## Sources
 
-The project is managed by a self-hsoted [Gita](https://gitea.io) instance by
+The project is managed by a self-hosted [Gitea](https://gitea.io) instance by
 over at https://git.mills.io/yarnsocial
 
 - [yarn](https://git.mills.io/yarnsocial/yarn)
@@ -68,7 +68,7 @@ over at https://git.mills.io/yarnsocial
   and interacting with your pod's API.
 - [yarns](https://git.mills.io/yarnsocial/yarns)
   The Yarn.social search engine that crawls the network of
-  pods and twtxt feeds, scrapesa and indexed every post (yarns).
+  pods and twtxt feeds, scrapes and indexed every post (yarns).
 - [rss2twtxt](https://git.mills.io/yarnsocial/rss2twtxt)
   📜 an RSS/Atom and Twitter feed aggregator that consumes RSS/Atom and Twitter™
   feeds and produces twtxt feeds for consumption by Yarn.social pods as well as
@@ -80,8 +80,8 @@ over at https://git.mills.io/yarnsocial
 
 ## Contributing
 
-If you would like to help the project and contribute ideas, bugfixes,
-improvements, etc, we're always looking for new contributirs and we still
+If you would like to help the project and contribute ideas, bug-fixes,
+improvements, etc, we're always looking for new contributors and we still
 have loads of things to do!
 
 Please reach out to [@prologic](https://twtxt.net/user/prologic) or join our
