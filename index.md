@@ -16,6 +16,15 @@ Read more [About Yarn.social](/about.html) and our [Manifesto](/manifesto.html)
 
 ## Getting Started
 
+### Join an existing Pod
+
+You are welcome to join one of the existing pods list here:
+
+- [twtxt.net](https://twtxt.net)
+  The first Yarn.social pod launched on the 20th July 2020 and hosted in
+  Australia/Brisbane by [James Mills](https://prologic.shortcircuit.net.au)
+  at the Mills DC (_a mini data center focused on self-hosted infra_).
+
 ### Run a Pod
 
 If you have [Docker](https://www.docker.com) installed and available to run
@@ -57,6 +66,20 @@ and participate in the growing numbers of users and conversations is:
 
 > Coming soon™
 
+## Services
+
+The following supporting services help to support the Yarn.social platform and
+are provided for the benefit of all users:
+
+- [search.twtxt.net](https://search.twtxt.net)
+  This is an instance of the [Yarns](//git.mills.io/yarnsocial/yarn)
+  search engine and crawls and indexes Yarn.social pods and Twtxt feeds.
+- [feeds.twtxt.net](https://feeds.twtxt.net)
+  This is an instance of [rss2twtxt](//git.mills.io/yarnsocial/rss2twtxt)
+  and is used as the primary "feed source" for all Yarn.social pods (by default)
+  and supports RSS/Atom and Twitter™. This allows users to "subscribe" to and
+  "follow" websites, blogs or Twitter™ accounts.
+
 ## Sources
 
 The project is managed by a self-hosted [Gitea](https://gitea.io) instance by
@@ -87,6 +110,11 @@ have loads of things to do!
 Please reach out to [@prologic](https://twtxt.net/user/prologic) or join our
 Gitea instance at https://git.mills.io/ and start filing issues and pull requests
 to the main project https://git.mills.io/yarnsocial/yarn
+
+## Collaboration
+
+We have an IRC channel `#yarn.social` on the [LibraChat](https://libera.chat/)
+IRC network. You are welcome to come chat to us and hang out.
 
 ## Licenses
 
