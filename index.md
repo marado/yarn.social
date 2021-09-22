@@ -24,6 +24,8 @@ You are welcome to join one of the existing pods list here:
   The first Yarn.social pod launched on the 20th July 2020 and hosted in
   Australia/Brisbane by [James Mills](https://prologic.shortcircuit.net.au)
   at the Mills DC (_a mini data center focused on self-hosted infra_).
+- [twt.nfld.uk](https://twt.nfld.uk)
+  A yarn.social pod hosted in the UK by [@jlj](nfld.uk)
 
 ### Run a Pod
 
@@ -86,11 +88,11 @@ The project is managed by a self-hosted [Gitea](https://gitea.io) instance by
 over at https://git.mills.io/yarnsocial
 
 - [yarn](https://git.mills.io/yarnsocial/yarn)
-  The `yarnd` self-hosted Yarn.social Pod server itself
+  📕 The `yarnd` self-hosted Yarn.social Pod server itself
   as well as the `yarnc` command-line client for posting
   and interacting with your pod's API.
 - [yarns](https://git.mills.io/yarnsocial/yarns)
-  The Yarn.social search engine that crawls the network of
+  🔍 The Yarn.social search engine that crawls the network of
   pods and twtxt feeds, scrapes and indexed every post (yarns).
 - [rss2twtxt](https://git.mills.io/yarnsocial/rss2twtxt)
   📜 an RSS/Atom and Twitter feed aggregator that consumes RSS/Atom and Twitter™
