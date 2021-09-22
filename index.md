@@ -38,10 +38,10 @@ Otherwise it is recommended to clone the source code and build `yarnd`
 from source. Be sure to have [Go](https://golang.org) installed.
 
 ```#!sh
-$ https://git.mills.io/yarnsocial/yarn
+$ git clone https://git.mills.io/yarnsocial/yarn
 $ cd yarn
-$ go build ./cmd/yarnd/...
-$ go install  ./cmd/yarnd/...
+$ make deps
+$ make
 ```
 
 Now run your instance by running:
