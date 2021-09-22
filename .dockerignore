@@ -2,3 +2,8 @@
 *.bak
 
 /.pub
+/.git
+/README.md
+/.drone.yml
+/.gitignore
+/.dockerignore

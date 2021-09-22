@@ -1,0 +1,31 @@
+---
+kind: pipeline
+name: default
+
+steps:
+  - name: build-image-push
+    image: plugins/kaniko
+    settings:
+      registry: r.mills.io
+      repo: r.mills.io/prologic/yarn.social
+      tags: latest
+      username:
+        from_secret: docker_username
+      password:
+        from_secret: docker_password
+
+  - name: notify-irc
+    image: plugins/webhook
+    settings:
+      urls:
+        - https://msgbus.mills.io/ci.mills.io
+    when:
+      status:
+        - success
+        - failure
+
+trigger:
+  branch:
+    - master
+  event:
+    - push
