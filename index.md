@@ -56,9 +56,10 @@ For options see `yarnd --help`.
 
 ### Manually
 
-Since Yarn.social is built upon the [Twtxt](https://twtxt.readthedocs.org) with
-a few [small extensions](https://dev.twtxt.net) all you need to join the network
-and participate in the growing numbers of users and conversations is:
+Since Yarn.social is built upon the [Twtxt](https://twtxt.readthedocs.org) spec
+with a few [small extensions](https://dev.twtxt.net), all you need to do to
+join the network and participate in the growing number of users and
+conversations is have:
 
 - A `twtxt.txt` file hosted somewhere
 - A `avatar.png` hosted next to your `twtxt.txt`
