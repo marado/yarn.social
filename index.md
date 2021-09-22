@@ -1,5 +1,5 @@
 ---
-title: Yarn.social
+title: Yarn.social - The decentralized social micro-blogging platform that actually respects your privacy
 keywords: yarn, social media, twtxt, decentralized, privacy first
 ---
 
