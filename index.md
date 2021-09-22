@@ -18,7 +18,7 @@ Read more [About Yarn.social](/about.html) and our [Manifesto](/manifesto.html)
 
 ### Join an existing Pod
 
-You are welcome to join one of the existing pods list here:
+You are welcome to join one of the existing pods listed here:
 
 - [twtxt.net](https://twtxt.net)
   The first Yarn.social pod launched on the 20th July 2020 and hosted in
