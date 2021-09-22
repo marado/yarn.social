@@ -113,7 +113,7 @@ to the main project https://git.mills.io/yarnsocial/yarn
 
 ## Collaboration
 
-We have an IRC channel `#yarn.social` on the [LibraChat](https://libera.chat/)
+We have an IRC channel `#yarn.social` on the [Libera.Chat](https://libera.chat/)
 IRC network. You are welcome to come chat to us and hang out.
 
 ## Licenses
