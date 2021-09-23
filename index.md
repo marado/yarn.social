@@ -63,7 +63,10 @@ conversations is have:
 
 - A `twtxt.txt` file hosted somewhere
 - A `avatar.png` hosted next to your `twtxt.txt`
-- A [twtxt](https://twtxt.readthedocs.org) client
+- A [twtxt](https://twtxt.readthedocs.org) client such as:
+    - [jenny](https://uninformativ.de/git/jenny): A console twtxt client
+      with [mutt](http://www.mutt.org) integration
+      ([tutorial](https://www.uninformativ.de/blog/postings/2021-09-19/0/POSTING-en.html))
 
 ### Hosting
 
