@@ -25,7 +25,7 @@ You are welcome to join one of the existing pods listed here:
   Australia/Brisbane by [James Mills](https://prologic.shortcircuit.net.au)
   at the Mills DC (_a mini data center focused on self-hosted infra_).
 - [twt.nfld.uk](https://twt.nfld.uk)
-  A yarn.social pod hosted in the UK by [@jlj](nfld.uk)
+  A yarn.social pod hosted in the UK by [@jlj](https://twt.nfld.uk/user/jlj/)
 
 ### Run a Pod
 
