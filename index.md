@@ -16,18 +16,24 @@ Read more [About Yarn.social](/about.html) and our [Manifesto](/manifesto.html)
 
 ## Getting Started
 
-### Join an existing Pod
+### 🤗 Join an existing Pod
 
 You are welcome to join one of the existing pods listed here:
 
 - [twtxt.net](https://twtxt.net)
-  The first Yarn.social pod launched on the 20th July 2020 and hosted in
-  Australia/Brisbane by [James Mills](https://prologic.shortcircuit.net.au)
-  at the Mills DC (_a mini data center focused on self-hosted infra_).
+  The first Yarn.social pod launched 20th July 2020 hosted in AU by
+  [@prologic](https://prologic.shortcircuit.net.au)
 - [twt.nfld.uk](https://twt.nfld.uk)
   A yarn.social pod hosted in the UK by [@jlj](https://twt.nfld.uk/user/jlj/)
 
-### Run a Pod
+### 📱 Mobile App
+
+There is a native Mobile App for Yarn.social pods available called "Goryton for Twt"
+available on both Apple App and Google Play stores.
+
+See [Goryon](/goryon) for details
+
+### 🧶 Run a Pod
 
 If you have [Docker](https://www.docker.com) installed and available to run
 containers you can run a `yarnd` instance by simply running:
@@ -54,7 +60,7 @@ yarnd
 
 For options see `yarnd --help`.
 
-### Manually
+### 💪 Manually
 
 Since Yarn.social is built upon the [Twtxt](https://twtxt.readthedocs.org) spec
 with a few [small extensions](https://dev.twtxt.net), all you need to do to
@@ -68,7 +74,7 @@ conversations is have:
       with [mutt](http://www.mutt.org) integration
       ([tutorial](https://www.uninformativ.de/blog/postings/2021-09-19/0/POSTING-en.html))
 
-### Hosting
+### 🌐 Hosting
 
 > Coming soon™
 
@@ -86,26 +92,25 @@ are provided for the benefit of all users:
   and supports RSS/Atom and Twitter™. This allows users to "subscribe" to and
   "follow" websites, blogs or Twitter™ accounts.
 
-## Sources
+## 💾 Sources
 
-The project is managed by a self-hosted [Gitea](https://gitea.io) instance by
-over at https://git.mills.io/yarnsocial
+The project is managed by a self-hosted [Gitea](https://gitea.io) instance
+at https://git.mills.io/yarnsocial
 
 - [yarn](https://git.mills.io/yarnsocial/yarn)
   📕 The `yarnd` self-hosted Yarn.social Pod server itself
   as well as the `yarnc` command-line client for posting
-  and interacting with your pod's API.
+  and interacting with the pod's API.
 - [yarns](https://git.mills.io/yarnsocial/yarns)
   🔍 The Yarn.social search engine that crawls the network of
-  pods and twtxt feeds, scrapes and indexed every post (yarns).
+  pods and twtxt feeds, scrapes and indexes every post.
 - [rss2twtxt](https://git.mills.io/yarnsocial/rss2twtxt)
   📜 an RSS/Atom and Twitter feed aggregator that consumes RSS/Atom and Twitter™
   feeds and produces twtxt feeds for consumption by Yarn.social pods as well as
   twtxt clients in general.
 - [Goryon](https://git.mills.io/yarnsocial/goryon)
-  🐦 A Flutter iOS and Android App for the Yarn.social backend API
-  (`yarnd`)` to provide a native mobile experience for users. Goryon connects
-  to any valid Yarn.social pod such a [twtxt.net](https://twtxt.net).
+  🐦 A Flutter iOS and Android App for the Yarn.social `yarnd` API
+  to provide a native mobile experience for users.
 
 ## Contributing
 
