@@ -127,6 +127,23 @@ to the main project https://git.mills.io/yarnsocial/yarn
 We have an IRC channel `#yarn.social` on the [Libera.Chat](https://libera.chat/)
 IRC network. You are welcome to come chat to us and hang out.
 
+## Privacy and Abuse Policy
+
+Yarn.social is a decentralised social media platform that supports
+micro-blogging (Twts) and full blogging. Pods (or individual instances) are
+owned and operators by "Pod Owners" or "Pod Operators". Pods can either be
+configured as single-user or multi-user (the default).
+
+As such all Yarn.social pods share the following defaults Abuse and Privacy policies:
+
+- [Default Abuse Policy (Community Guidelines)](/abuse.html)
+- [Privacy Policy](/privacy.html)
+
+__Note:__ The privacy policy applies to **ALL** Yarn.social pods as the software
+`yarnd` **DOES NOT** collect any personali identifable information from users (PII),
+or any metadata or analytics of any kind nor does it send, sell or transfer any data
+from pods to any 3rd-parties.
+
 ## Licenses
 
 Most of the software components here are licensed under the terms of the
