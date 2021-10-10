@@ -7,13 +7,13 @@ keywords: yarn, social media, yarn.social, story
 
 ## A brief history
 
-Yarn.social was originally created around July 2020 when [James Mills](https://prologic.shortcircuit.net.au) the creator and original author of many of the software components was looking for decentralised social media alternatives (_probably for the umpteenth time!) an interesting spec and some software was found around a [very simple file format called Twtxt](https://twtxt.readthedocs.org).
+Yarn.social was originally created around July 2020 when [James Mills](https://prologic.shortcircuit.net.au) the creator and original author of many of the software components was looking for decentralised social media alternatives (_probably for the umpteenth time!) an interesting spec and some software was found around a [very simple file format called Twtxt](https://twtxt.readthedocs.org_).
 
 
 
 As a former Facebook Inc. engineer, James was acutely aware of the negative impacts 'traditional' social media has on not only individuals but community as a whole. 
 
-James quickly set out to try out a few clients such as [twet](https://github.com/quite/twet) and eventually started building one himself in the form of a web application with a web interface. Suddenly the first (_of what is now many _) Yarn.social pods was born and [twtxt.net](https://twtxt.net) was launched on the 20 July 2020.
+James quickly set out to try out a few clients such as [twet](https://github.com/quite/twet) and eventually started building one himself in the form of a web application with a web interface. Suddenly the first (_of what is now many_) Yarn.social pods was born and [twtxt.net](https://twtxt.net) was launched on the 20 July 2020.
 
 Since then the project has developed through several growth phases. Including but not limited to : rebranding, collaboration in the open source community and many self-hosted independent pods. 
 
