@@ -20,13 +20,12 @@ Read more [About Yarn.social](/about.html)
 
 You are welcome to join one of the existing pods listed here:
 
-- [twtxt.net](https://twtxt.net)
-  The first Yarn.social pod launched 20th July 2020 hosted in AU by
-  [@prologic](https://prologic.shortcircuit.net.au)
-- [twt.nfld.uk](https://twt.nfld.uk)
-  A yarn.social pod hosted in the UK by [@jlj](https://twt.nfld.uk/user/jlj/)
-- [we.loveprivacy.club](https://we.loveprivacy.club)
-  A yarn.social pod hosted in AU by [@eldersnake](https://we.loveprivacy.club/user/eldersnake)
+- [twtxt.net](https://twtxt.net) The first Yarn.social pod launched 20 July 2020
+  Hosted in AU by [@prologic](https://prologic.shortcircuit.net.au)
+- [twt.nfld.uk](https://twt.nfld.uk) A Yarn.social pod
+  Hosted in the UK by [@jlj](https://twt.nfld.uk/user/jlj/)
+- [we.loveprivacy.club](https://we.loveprivacy.club) A Yarn.social pod
+  Hosted in AU by [@eldersnake](https://we.loveprivacy.club/user/eldersnake)
 
 ### 📱 Mobile App
 
