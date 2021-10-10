@@ -7,9 +7,7 @@ keywords: yarn, social media, yarn.social, story
 
 ## A brief history
 
-Yarn.social was originally created around July 2020 when [James Mills](https://prologic.shortcircuit.net.au) the creator and original author of many of the software components was looking for decentralised social media alternatives (_probably for the umpteenth time!) an interesting spec and some software was found around a [very simple file format called Twtxt](https://twtxt.readthedocs.org_).
-
-
+Yarn.social was originally created around July 2020 when [James Mills](https://prologic.shortcircuit.net.au) the creator and original author of many of the software components was looking for decentralised social media alternatives (_probably for the umpteenth time!_) an interesting spec and some software was found around a [very simple file format called Twtxt](https://twtxt.readthedocs.org).
 
 As a former Facebook Inc. engineer, James was acutely aware of the negative impacts 'traditional' social media has on not only individuals but community as a whole. 
 
