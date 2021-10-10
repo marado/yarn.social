@@ -7,13 +7,13 @@ keywords: yarn, social media, yarn.social, story
 
 ## A brief history
 
-Yarn.social was originally created around July 2020 when [James Mills](https://prologic.shortcircuit.net.au) the creator and original author of many of the software components was looking for decentralised social media alternatives (_probably for the umpteenth time!_) came across an interesting spec and some software was found around a [very simple file format called Twtxt](https://twtxt.readthedocs.org).
+Yarn.social was originally created around July 2020 when [James Mills](https://prologic.shortcircuit.net.au) the creator and original author of many of the software components was looking for decentralised social media alternatives (_probably for the umpteenth time!_) and came across an interesting spec and some software was found around a [very simple file format called Twtxt](https://twtxt.readthedocs.org).
 
-As a former Facebook Inc. engineer, James was acutely aware of the negative impacts 'traditional' social media has on not only individuals but community as a whole. 
+As a former Facebook Inc. engineer, James was acutely aware of the negative impacts "traditional" social media has on not only individuals but community as a whole. 
 
-James quickly set out to try out a few clients such as [twet](https://github.com/quite/twet) and eventually started building one himself in the form of a web application with a web interface. Suddenly the first (_of what is now many_) Yarn.social pods was born and [twtxt.net](https://twtxt.net) was launched on the 20 July 2020.
+James quickly set out to try out a few clients such as [twet](https://github.com/quite/twet) and eventually started building one himself in the form of a web application. Suddenly the first (_of what is now many_) Yarn.social pods was born and [twtxt.net](https://twtxt.net) was launched on the 20 July 2020.
 
-Since then the project has developed through several growth phases. Including but not limited to : rebranding, collaboration in the open source community and many self-hosted independent pods. 
+Since then the project has developed through several growth phases. Including but not limited to; rebranding, collaboration in the open source community and many self-hosted independent pods. 
 
 ## Why Yarn.social?
 
@@ -24,30 +24,30 @@ Traditional social media platforms like Facebook, Instagram, Youtube, WhatsApp, 
 * Driving user engagement
 * Collecting user data and metadata
 * Selling that data to advertisers
-* Show users targeted advertising
+* Showing users targeted advertising
 
-Most folks are okay with this, many don't understand the impact this has on their lives and the cost to the user of things we consume in our everyday lives.
+Most folks are okay with this, many don't understand the impact this has on their lives and the cost to consumers in our everyday lives.
 
-> if something is free, you are the product
+> If something is free, you are the product
 
 There are a few side effects to platforms such as the ones mentioned above and as you're probably using one right now, here is what you should know:
 
 * Privacy is non-existent and these companies know more about you than you know about yourself, your family and your friends. 
-* Data breaches happen all the data, data is leaked, bad actors/hackers can access your photos, your messages, your private lives
+* Data breaches happen all the time, data is leaked, bad actors/hackers can access your photos, your messages, your private lives
 * What users see is manipulated all the time often to drive up engagement and drive up advertising revenue
 
-This is why decentralised social media is so important and even more so today than ever before. If you have something to say, an opinion to share, an article you want to publish, photos or videos to share, why should your data privacy, security be up for sale?
+This is why decentralised social media is so important and even more so today than ever before. If you have something to say, an opinion to share, an article you want to publish, photos or videos to share, why should your data privacy and security be up for sale?
 
-With Yarn.social it isn't! We believe in an open, honest and transparent social media experience. Yarn.social is composed of a very simple specification and set of protocols that are themselves based on Standard Web Technologies that anyone can implement.
+With Yarn.social it isn't! We believe in an open, honest and transparent social media experience. Yarn.social is made up of a very simple specification and a set of protocols that are themselves based on Standard Web Technologies that anyone can implement and participate in.
 
 ## Our Rules
 
 The Yarn.social platform, its software components, specifications and ecosystem has a few simple rules:
 
 * We do not collect or store any personal identifiable information (PII)
-* We do not track any user behaviour, user data or metadata whatsoever
-* We do not serve ads at all
-* Your data is your own, delete any time, take your data with you
+* We do not track any user behaviour, user data or metadata whatsoever (Analytics)
+* We do not serve ads at all (Advertising)
+* Your data is your own, delete any time, take your data with you (Privacy)
 
 ## Our Vision
 
@@ -61,9 +61,9 @@ At Yarn.social we like to keep things simple, therefore our philosophy is also q
 
 * Keep it as simple as possible
 * Do not compromise on data security and user privacy
-* Software should be light weight
+* Software should be lightweight
 * Self hosted software is preferable over cloud services or SaaS
-* Ship it early and ship often 
+* Ship early, Ship often 
 
 ## Join us!
 
