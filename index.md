@@ -141,9 +141,9 @@ As such all Yarn.social pods share the following defaults Abuse and Privacy poli
 - [Privacy Policy](/privacy.html)
 
 __Note:__ The privacy policy applies to **ALL** Yarn.social pods as the software
-`yarnd` **DOES NOT** collect any personali identifable information from users (PII),
-or any metadata or analytics of any kind nor does it send, sell or transfer any data
-from pods to any 3rd-parties.
+`yarnd` **DOES NOT** collect any personally identifable information from users
+(PII), or any metadata or analytics of any kind nor does it send, sell or
+transfer any data from pods to any 3rd-parties.
 
 ## Licenses
 
