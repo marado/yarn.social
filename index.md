@@ -32,7 +32,7 @@ There is a native Mobile App for Yarn.social pods available called "Goryton for 
 
 See [Goryon](/goryon) for details.
 
-**NO:TE:** The mobile app is being rebuilt and rebranded. Test versions can be found [here](https://twtxt.net/twt/evaet7q)
+**NOTE:** The mobile app is being rebuilt and rebranded. Test versions can be found [here](https://twtxt.net/twt/uyrspdq)
 
 ### 🧶 Run a Pod
 
