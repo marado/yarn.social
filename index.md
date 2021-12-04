@@ -73,7 +73,7 @@ Since Yarn.social is built upon the [Twtxt](https://twtxt.readthedocs.org) spec 
       with [mutt](http://www.mutt.org) integration
       ([tutorial](https://www.uninformativ.de/blog/postings/2021-09-19/0/POSTING-en.html))
 
-For the best experience your client _should_ also support some of the [Twtxt Extensions](https://dev.twxt.net) developed by Yarn.social's development team and community. For example being able to participate in "threads" by implementing the Twt Subject and Twt Hash extensions and the Metadata extensions to advertise information about your feed such as a description and avatar.
+For the best experience your client _should_ also support some of the [Twtxt Extensions](https://dev.twtxt.net) developed by Yarn.social's development team and community. For example being able to participate in "threads" by implementing the Twt Subject and Twt Hash extensions and the Metadata extensions to advertise information about your feed such as a description and avatar.
 
 ### 🌐 Hosting
 
