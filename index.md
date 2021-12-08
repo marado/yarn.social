@@ -20,11 +20,12 @@ Read more [About Yarn.social](/about.html)
 
 You are welcome to join one of the existing pods listed here:
 
-| **Pod**                                            | **Location**       | **Operator**                                           |
-| :------------------------------------------------- | ------------------ | ------------------------------------------------------ |
-| [twtxt.net](https://twtxt.net)                     | Australia/Brisbane | [@prologic](https://twtxt.net/~prologic)               |
-| [twt.nfld.uk](https://twt.nfld.uk)                 | United Kingdom     | [@jlj](https://twt.nfld.uk/~jlj)                       |
-| [we.loveprivacy.club](https://we.loveprivacy.club) | Australia          | [@eldersnake](https://we.loveprivacy.club/!eldersnake) |
+| **Pod**                                             | **Location**       | **Operator**                                           |
+| :-------------------------------------------------- | ------------------ | ------------------------------------------------------ |
+| [twtxt.net](https://twtxt.net)                      | Australia/Brisbane | [@prologic](https://twtxt.net/~prologic)               |
+| [nfld](https://twt.nfld.uk)                         | United Kingdom     | [@jlj](https://twt.nfld.uk/~jlj)                       |
+| [We.Love.Privacy.Club](https://we.loveprivacy.club) | Australia          | [@eldersnake](https://we.loveprivacy.club/!eldersnake) |
+| [Mentano](https://mentano.org/)                     | Germany            | [@lukas](https://mentano.org/user/lukas)               |
 
 ### 📱 Mobile App
 
