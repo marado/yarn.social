@@ -28,9 +28,7 @@ You are welcome to join one of the existing pods listed here:
 
 ### 📱 Mobile App
 
-There is a native Mobile App for Yarn.social pods available called "Goryton for Twt" available on both Apple App and Google Play stores.
-
-See [Goryon](/goryon) for details.
+There is a native Mobile App for Yarn.social pods!
 
 **NOTE:** The mobile app is being rebuilt and rebranded. Test versions can be found [here](https://twtxt.net/twt/uyrspdq)
 
@@ -42,8 +40,12 @@ If you have [Docker](https://www.docker.com) installed and available to run cont
 $ docker run -p 8000:8000 prologic/yarnd
 ```
 
-Otherwise it is recommended to clone the source code and build `yarnd`
-from source. Be sure to have [Go](https://golang.org) installed.
+Pre-compiled binaries can be found on the [yarn Releases page](https://git.mills.io/yarnsocial/yarn/releases),
+and are compiled by [James Mills](https://prologic.shortcircuit.net.au) and the `*-checksums.txt.sig` can be verified
+with the GPG public key `C1F16643ADFF61B4A39EA3FEAC4C014F1440EBD6`.
+
+Otherwise if you wish to compile from source and build `yarnd` yourself
+(Be sure to have [Go](https://golang.org) installed):
 
 ```shell
 $ git clone https://git.mills.io/yarnsocial/yarn
@@ -59,6 +61,9 @@ yarnd
 ```
 
 For options see `yarnd --help`.
+
+Please refer to the [Configuring your Pod](https://git.mills.io/yarnsocial/yarn/src/branch/master/README.md#configuring-your-pod)
+guide for a production pod setup.
 
 For other setups and community documentation on setting up a Yarn.social pod, please see [Our Pod Owner's WIki](https://git.mills.io/yarnsocial/yarn/wiki/), you are also welcome to contribute to the Wiki! 
 
