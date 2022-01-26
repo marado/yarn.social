@@ -28,4 +28,5 @@ trigger:
   branch:
     - master
   event:
+    - cron
     - push
