@@ -24,8 +24,9 @@ You are welcome to join one of the existing pods listed here:
 | :-------------------------------------------------- | ------------------ | ------------------------------------------------------ |
 | [twtxt.net](https://twtxt.net)                      | Australia/Brisbane | [@prologic](https://twtxt.net/~prologic)               |
 | [nfld](https://twt.nfld.uk)                         | United Kingdom     | [@jlj](https://twt.nfld.uk/~jlj)                       |
-| [We.Love.Privacy.Club](https://we.loveprivacy.club) | Australia          | [@eldersnake](https://we.loveprivacy.club/!eldersnake) |
-| [Yarn Pods](https://yarn.yarnpods.com) | Australia/Perth | [@screem](https://yarn.yarnpods.com/~screem/) |
+| [We.Love.Privacy.Club](https://we.loveprivacy.club) | Australia          | [@eldersnake](https://we.loveprivacy.club/~eldersnake) |
+| [Yarn Pods](https://yarn.yarnpods.com)              | Australia/Perth    | [@screem](https://yarn.yarnpods.com/~screem/)          |
+| [NETBROS](https://netbros.com)                      | US East            | [@avid](https://netbros.com/~david/)                   |
 
 ### 📱 Mobile App
 
