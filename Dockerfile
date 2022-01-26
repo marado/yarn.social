@@ -3,7 +3,7 @@ FROM golang:alpine AS build
 
 ENV CGO_ENABLED=0
 
-RUN apk add --no-cache -U build-base git make
+RUN apk add --no-cache -U build-base git make curl ca-certificates
 
 RUN mkdir -p /src
 
