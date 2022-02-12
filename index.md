@@ -1,5 +1,6 @@
 ---
 title: Yarn.social - The decentralized social micro-blogging platform that actually respects your privacy
+description: Yarn.social is a decentralised self-hosted social media that has a privacy-first focus. There are no ads, no tracking and no personal information is ever collected or stored.
 keywords: yarn, social media, twtxt, decentralized, privacy first
 ---
 
@@ -65,18 +66,29 @@ For other setups and community documentation on setting up a Yarn.social pod, pl
 
 ### 💪 Manually
 
-Since Yarn.social is built upon the [Twtxt](https://twtxt.readthedocs.org) spec with a few [small extensions](https://dev.twtxt.net), all you need to do to join the network and participate in the growing number of users and conversations is have:
+Since Yarn.social is built upon the [Twtxt](https://twtxt.readthedocs.org)
+spec with a few [small (optional) extensions](https://dev.twtxt.net),
+all you need to do to join the network and participate in the growing number
+of users and conversations is have:
 
-- A `twtxt.txt` file hosted somewhere
-- A `avatar.png` hosted next to your `twtxt.txt`
-- A [twtxt](https://twtxt.readthedocs.org) client such as:
-    - [jenny](https://uninformativ.de/git/jenny): A console twtxt client
-      with [mutt](http://www.mutt.org) integration
-      ([tutorial](https://www.uninformativ.de/blog/postings/2021-09-19/0/POSTING-en.html))
-    - [jdtron/twet](https://github.com/jdtron/twet): A command-line client.
-    - [twtr](https://git.envs.net/duriny/twtr): A twtxt client written in Go, for all your twting needs.
+- Host a `twtxt.txt` file somewhere
+- Add some important [Metadata](https://dev.twtxt.net/doc/metadataextension.html)
+  such as `# Nick = `, `# Description = ` and `# Avatar =` at a minimum.
+- Use a [twtxt](https://twtxt.readthedocs.org) Yarn-compatible client that
+  at least implements the [Twt Subject Ext](https://dev.twtxt.net/doc/twtsubjectextension.html)
+  and [Twt Hash Ext](https://dev.twtxt.net/doc/twthashextension.html) such as:
+  - [jenny](https://uninformativ.de/git/jenny): A console twtxt client
+    with [mutt](http://www.mutt.org) integration
+    ([tutorial](https://www.uninformativ.de/blog/postings/2021-09-19/0/POSTING-en.html))
+  - [jdtron/twet](https://github.com/jdtron/twet): A command-line client.
+  - [twtr](https://git.envs.net/duriny/twtr): A twtxt client written in Go, for all your twting needs.
 
-For the best experience your client _should_ also support some of the [Twtxt Extensions](https://dev.twtxt.net) developed by Yarn.social's development team and community. For example being able to participate in "threads" by implementing the Twt Subject and Twt Hash extensions and the Metadata extensions to advertise information about your feed such as a description and avatar.
+For the best experience your client _should_ also support some of the
+[Twtxt Extensions](https://dev.twtxt.net) developed by Yarn.social's
+development team and community. For example being able to participate in
+"threads" by implementing the Twt Subject and Twt Hash extensions and the
+Metadata extensions to advertise information about your feed such as a
+description and avatar.
 
 ### 🌐 Hosting
 
