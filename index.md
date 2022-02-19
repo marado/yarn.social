@@ -17,6 +17,16 @@ Read more [About Yarn.social](/about.html)
 
 ## 👉 Getting Started
 
+Yarn.social is completely decentralized. In order to get onboard and start
+following your friends, family or colleagues, you need a feed and a client.
+
+You can either [Join an existing Pod](#join-an-existing-pod) that runs
+Yarn.social's multi-user decentralised and distributed software called `yarnd`,
+or you can [Run-a-pod](#run-a-pod) yourself on your own server or even a
+Raspberry Pi! And finally you can [Manually](#manually) host your own feed and
+use any "compatible" client of your choosing, or write a new one that implements
+the [specifications](https://dev.twtxt.net). Enjoy 🤗
+
 ### 🤗 Join an existing Pod
 
 You are welcome to join one of the existing pods listed here:
