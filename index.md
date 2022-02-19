@@ -17,8 +17,9 @@ Read more [About Yarn.social](/about.html)
 
 ## 👉 Getting Started
 
-Yarn.social is completely decentralized. In order to get onboard and start
-following your friends, family or colleagues, you need a feed and a client.
+Yarn.social is completely decentralized and operates on a "pull"-based model
+unlike ActivityPub based platforms like Mastodon. In order to get onboard and
+start following your friends, family or colleagues, you need a feed and a client.
 
 You can either [Join an existing Pod](#join-an-existing-pod) that runs
 Yarn.social's multi-user decentralised and distributed software called `yarnd`,
