@@ -13,5 +13,6 @@ cat <<EOF
 | [nfld](https://twt.nfld.uk)                         | United Kingdom     | [@jlj](https://twt.nfld.uk/~jlj)                       | $(get_pod_mau "https://twt.nfld.uk")              |
 | [We.Love.Privacy.Club](https://we.loveprivacy.club) | Australia          | [@eldersnake](https://we.loveprivacy.club/~eldersnake) | $(get_pod_mau "https://we.loveprivacy.club")      |
 | [Yarn Pods](https://yarn.yarnpods.com)              | Australia/Perth    | [@screem](https://yarn.yarnpods.com/~screem/)          | $(get_pod_mau "https://yarn.yarnpods.com")        |
-| [NetBros](https://netbros.com)                      | US East            | [@david](https://netbros.com/~david/)                   | $(get_pod_mau "https://netbros.com")              |
+| [NetBros](https://netbros.com)                      | US East            | [@david](https://netbros.com/~david/)                  | $(get_pod_mau "https://netbros.com")              |
+| [zn80.net](https://yarn.zn80.net)                   | Europe/Germany     | [@cblte](https://yarn.zn80.net/~cblte/)                | $(get_pod_mau "https://yarn.zn80.net")            |
 EOF
