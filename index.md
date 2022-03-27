@@ -155,4 +155,6 @@ __Note:__ The privacy policy applies to **ALL** Yarn.social pods as the software
 
 ## 👨‍⚖️ Licenses
 
-Most of the software components here are licensed under the terms of the [MIT License](https://opensource.org/licenses/MIT) with the exception of the hosting platform.
+Most of the software components here are licensed under the terms of the
+[AGPL-3.0 License](https://opensource.org/licenses/AGPL-3.0) with the exception of
+the hosting platform.
