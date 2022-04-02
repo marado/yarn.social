@@ -15,4 +15,5 @@ cat <<EOF
 | [Yarn Pods](https://yarn.yarnpods.com)              | Australia/Perth    | [@screem](https://yarn.yarnpods.com/~screem/)          | $(get_pod_mau "https://yarn.yarnpods.com")        |
 | [NetBros](https://netbros.com)                      | US East            | [@david](https://netbros.com/~david/)                  | $(get_pod_mau "https://netbros.com")              |
 | [zn80.net](https://yarn.zn80.net)                   | Europe/Germany     | [@carsten](https://yarn.zn80.net/~carsten/)            | $(get_pod_mau "https://yarn.zn80.net")            |
+| [neotxt.dk](https://neotxt.dk)                      | Europe/Scandinavia | [@darch](https://neotxt.dk/~darch/)                    | $(get_pod_mau "https://neotxt.dk")                |
 EOF
