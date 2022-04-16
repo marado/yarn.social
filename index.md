@@ -15,6 +15,8 @@ There are **no** ads, **no** tracking and **no** personal information is ever co
 
 Read more [About Yarn.social](/about.html) or try the [Demo Pod](https://demo.yarn.social) today!
 
+<a style="display: block; height: 100px; width: 500px; background: #606060; color: #ffffff; text-align: center; font-weight: bold; font-size: 300%; line-height: 100px; font-family: Arial; border-radius: 20px; text-decoration: none;" href="https://demo.yarn..social">Try Now!</a>
+
 ## 👉 Getting Started
 
 Yarn.social is completely decentralized and operates on a "pull"-based model
@@ -42,7 +44,9 @@ There is a native Mobile App for Yarn.social pods!
 
 ### 🧶 Run a Pod
 
-📣 **NEW:** (17th April 2022) There is now a [Yarn](https://my.vultr.com/deploy?marketplace_app=yarn&marketplace_vendor_username=prologic) in the [Vultr](https://vultr.com) App Marketplace you can deploy quickly and easily! See https://www.vultr.com/marketplace/apps/yarn for more details.
+<a style="display: block; height: 100px; width: 500px; background: #606060; color: #ffffff; text-align: center; font-weight: bold; font-size: 300%; line-height: 100px; font-family: Arial; border-radius: 20px; text-decoration: none;" href="https://my.vultr.com/deploy?marketplace_app=yarn&marketplace_vendor_username=prologic">Deploy to Vultr!</a>
+
+📣 **NEW:** (17th April 2022) [Yarn](https://my.vultr.com/deploy?marketplace_app=yarn&marketplace_vendor_username=prologic) is now available in the [Vultr](https://vultr.com) App Marketplace! See https://www.vultr.com/marketplace/apps/yarn for more details.
 
 If you have [Docker](https://www.docker.com) installed and available to run containers you can run a `yarnd` instance by simply running:
 
