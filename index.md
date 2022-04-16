@@ -42,6 +42,8 @@ There is a native Mobile App for Yarn.social pods!
 
 ### 🧶 Run a Pod
 
+📣 **NEW:** (17th April 2022) There is now a [Yarn](https://my.vultr.com/deploy?marketplace_app=yarn&marketplace_vendor_username=prologic) in the [Vultr](https://vultr.com) App Marketplace you can deploy quickly and easily! See https://www.vultr.com/marketplace/apps/yarn for more details.
+
 If you have [Docker](https://www.docker.com) installed and available to run containers you can run a `yarnd` instance by simply running:
 
 ```shell
