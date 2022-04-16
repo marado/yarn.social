@@ -13,7 +13,7 @@ that has a privacy-first focus.
 
 There are **no** ads, **no** tracking and **no** personal information is ever collected or stored.
 
-Read more [About Yarn.social](/about.html)
+Read more [About Yarn.social](/about.html) or try the [Demo Pod](https://demo.yarn.social) today!
 
 ## 👉 Getting Started
 
