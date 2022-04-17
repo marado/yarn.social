@@ -32,6 +32,8 @@ the [specifications](https://dev.twtxt.net). Enjoy 🤗
 
 ### 🤗 Join an existing Pod
 
+{{ jointoday.sh }}
+
 You are welcome to join one of the existing pods listed here:
 
 {{ pods.sh }}
