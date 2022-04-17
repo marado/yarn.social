@@ -15,7 +15,7 @@ There are **no** ads, **no** tracking and **no** personal information is ever co
 
 Read more [About Yarn.social](/about.html) or try the [Demo Pod](https://demo.yarn.social) today!
 
-<a class="button" href="https://demo.yarn..social">Try it Now!</a>
+<a class="button" href="https://demo.yarn.social/">Try it Now!</a>
 
 ## 👉 Getting Started
 
