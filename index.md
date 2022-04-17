@@ -15,7 +15,7 @@ There are **no** ads, **no** tracking and **no** personal information is ever co
 
 Read more [About Yarn.social](/about.html) or try the [Demo Pod](https://demo.yarn.social) today!
 
-<a style="display: block; height: 100px; width: 500px; background: #606060; color: #ffffff; text-align: center; font-weight: bold; font-size: 300%; line-height: 100px; font-family: Arial; border-radius: 20px; text-decoration: none;" href="https://demo.yarn..social">Try Now!</a>
+<a class="button" href="https://demo.yarn..social">Try it Now!</a>
 
 ## 👉 Getting Started
 
@@ -44,7 +44,7 @@ There is a native Mobile App for Yarn.social pods!
 
 ### 🧶 Run a Pod
 
-<a style="display: block; height: 100px; width: 500px; background: #606060; color: #ffffff; text-align: center; font-weight: bold; font-size: 300%; line-height: 100px; font-family: Arial; border-radius: 20px; text-decoration: none;" href="https://my.vultr.com/deploy?marketplace_app=yarn&marketplace_vendor_username=prologic">Deploy to Vultr!</a>
+<a class="button" href="https://my.vultr.com/deploy?marketplace_app=yarn&marketplace_vendor_username=prologic">Deploy to Vultr!</a>
 
 📣 **NEW:** (17th April 2022) [Yarn](https://my.vultr.com/deploy?marketplace_app=yarn&marketplace_vendor_username=prologic) is now available in the [Vultr](https://vultr.com) App Marketplace! See https://www.vultr.com/marketplace/apps/yarn for more details.
 
