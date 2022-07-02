@@ -11,8 +11,9 @@ information, what happens when your account is deleted and some other
 frequently asked questions answered regarding your privacy.
 
 If you have any more questions, please raise an issue regarding
-the same on our [Issue Tracker](https://git.mills.io/saltyim/saltyim/issues/new)
+the same on our [Issue Tracker](https://git.mills.io/yarnsocial/yarn/issues/new)
 and I'll answer as honest and quickly as possible :)
+a/tyl
 
 <details>
   <summary>What identifiable information is stored about me?</summary>
