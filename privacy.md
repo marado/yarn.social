@@ -11,7 +11,8 @@ information, what happens when your account is deleted and some other
 frequently asked questions answered regarding your privacy.
 
 If you have any more questions, please raise an issue regarding
-the same on GitHub and I'll answer as honest and quickly as possible :)
+the same on our [Issue Tracker](https://git.mills.io/saltyim/saltyim/issues/new)
+and I'll answer as honest and quickly as possible :)
 
 <details>
   <summary>What identifiable information is stored about me?</summary>
@@ -30,6 +31,6 @@ the same on GitHub and I'll answer as honest and quickly as possible :)
     like to show your appreciation however, you can follow me on my social
     media and let me know how much it helped you, or donate to help pay
     the cloud bills, or if you are a fellow developer, you can head to
-    GitHub and contribute to the code by raising a PR.
+    git.mills.io and contribute to the code by raising a PR.
   </p>
 </details>
