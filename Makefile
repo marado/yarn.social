@@ -18,7 +18,7 @@ build:
 
 ifeq ($(PUBLISH), 1)
 image:
-	@docker build -t r.mills.io/prologic/yarn.social .
+	@docker build --no-cache -t r.mills.io/prologic/yarn.social .
 	@docker push r.mills.io/prologic/yarn.social
 else
 image:
