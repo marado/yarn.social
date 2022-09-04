@@ -1,6 +1,6 @@
 #!/bin/sh
 
-pods="twtxt.net twt.nfld.uk we.loveprivacy.club yarn.yarnpods.com yarn.zn80.net neotxt.dk"
+pods="twtxt.net twt.nfld.uk we.loveprivacy.club yarn.yarnpods.com yarn.zn80.net neotxt.dk social.kyoko-project.wer.ee"
 
 pick_random_pod() {
   random_pod="$(echo "$pods" | tr ' ' '\n' | shuf | head -n 1)"
