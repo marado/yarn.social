@@ -38,6 +38,12 @@ You are welcome to join one of the existing pods listed here:
 
 {{ pods.sh }}
 
+**Note:** Due to increased spam and link submission bots and/or marketing/seo
+type folks that don't know any better, _some_ pods have disabled "Open Registration".
+If you'd like to join a pod that has registrations disabled, you'd best contact
+its operator. An [Invite System](https://git.mills.io/yarnsocial/yarn/issues/695)
+will be built soon™
+
 ### 📱 Mobile App
 
 There is a native Mobile App for Yarn.social pods!
