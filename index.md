@@ -154,7 +154,10 @@ Please reach out to [@prologic](https://twtxt.net/user/prologic) or join our [Gi
 
 ## 💬 Collaboration
 
-We have an IRC channel `#yarn.social` on the [Libera.Chat](https://libera.chat/) IRC network. You are welcome to come chat to us and hang out.
+We have an IRC channel `#Yarn.social` on the [Libera.Chat](https://libera.chat/)
+IRC network. You are welcome to come chat to us and hang out.
+
+For your convenience you _may_ use the the [Web Chat](https://web.libera.chat/#Yarn.social).
 
 ## 🕵️‍♂️ Privacy and Abuse Policy
 
