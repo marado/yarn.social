@@ -97,7 +97,7 @@ RFC3339 timestamp followed by a tab and your post to a text file and hosting
 that on a public webserver. For example:
 
 ```console
-$ echo -e "$(date --rfc-3339=seconds)\tHello World" >> twtxt.txt
+$ echo -e "$(date -Is)\tHello World" >> twtxt.txt
 ```
 
 That's it! (_But do read on..._)
