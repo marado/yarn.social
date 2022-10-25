@@ -1,6 +1,6 @@
 ---
 title: Yarn.social - The decentralized social micro-blogging platform that actually respects your privacy
-description: Yarn.social is a decentralised self-hosted social media that has a privacy-first focus. There are no ads, no tracking and no personal information is ever collected or stored.
+description: Yarn.social is a decentralised self-hosted social media based on the Twtxt format that has a privacy-first focus. There are no ads, no tracking and no personal information is ever collected or stored.
 keywords: yarn, social media, twtxt, decentralized, privacy first
 ---
 
@@ -9,7 +9,8 @@ keywords: yarn, social media, twtxt, decentralized, privacy first
 <img align="left" width="100" height="100" src="/logo.png" style="padding-right: 5pt" />
 
 [Yarn.social](https://yarn.social) is a decentralised self-hosted social media
-that has a privacy-first focus.
+based on the [Twtxt](https://twtxt.readthedocs.org) format
+(with [Extensions](https://dev.twtxt.net)) that has a privacy-first focus.
 
 There are **no** ads, **no** tracking and **no** personal information is ever collected or stored.
 
