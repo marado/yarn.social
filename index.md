@@ -92,6 +92,16 @@ For other setups and community documentation on setting up a Yarn.social pod, pl
 
 ### 💪 Manually
 
+Joining the Yarn.social / Twtxt social ecosystem is as simple as writing a
+RFC3339 timestamp followed by a tab and your post to a text file and hosting
+that on a public webserver. For example:
+
+```console
+$ echo -e "$(date --rfc-3339=seconds)\tHello World" >> twtxt.txt
+```
+
+That's it! (_But do read on..._)
+
 Since Yarn.social is built upon the [Twtxt](https://twtxt.readthedocs.org)
 spec with a few [small (optional) extensions](https://dev.twtxt.net),
 all you need to do to join the network and participate in the growing number
