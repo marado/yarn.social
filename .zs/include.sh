@@ -5,10 +5,8 @@ if [ ! $# = 1 ]; then
   exit 0
 fi
 
-fn="${ZS_OUTDIR}/$1"
-
-if [ -f "${ZS_OUTDIR}/$1" ]; then
-  cat "${ZS_OUTDIR}/$1"
+if [ -f "$1" ]; then
+  cat "$1"
 else
-  echo "error: file not found ${ZS_OUTDIR}/$1"
+  echo "error: file not found $1"
 fi

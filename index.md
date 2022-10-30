@@ -126,6 +126,8 @@ development team and community. For example being able to participate in
 Metadata extensions to advertise information about your feed such as a
 description and avatar.
 
+### 📕 Example
+
 A full complete example of a feed would look like this:
 
 ```
