@@ -85,7 +85,7 @@ yarnd
 
 For options see `yarnd --help`.
 
-Please refer to the [Configuring your Pod](https://git.mills.io/yarnsocial/yarn/src/branch/master/README.md#configuring-your-pod)
+Please refer to the [Configuring your Pod](https://git.mills.io/yarnsocial/yarn/src/branch/main/README.md#configuring-your-pod)
 guide for a production pod setup.
 
 For other setups and community documentation on setting up a Yarn.social pod, please see [Our Pod Owner's WIki](https://git.mills.io/yarnsocial/yarn/wiki/), you are also welcome to contribute to the Wiki! 
