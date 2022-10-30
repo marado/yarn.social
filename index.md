@@ -126,6 +126,16 @@ development team and community. For example being able to participate in
 Metadata extensions to advertise information about your feed such as a
 description and avatar.
 
+A full complete example of a feed would look like this:
+
+```
+{{ include.sh twtxt.txt }}
+```
+
+Which also happens to be the same feed at [twtxt.txt](/twtxt.txt) which you can follow in your client as entering the feed uri of https://yarn.social/twtxt.txt or @-mentioning the feed with either `@<Yarn https://yarn.social/twtxt.txt>` (_the Twtxt mention format_) or `Yarn@yarn.social` (_the `yarnd` mention syntax_).
+
+Enjoy! 🤗
+
 ### 🌐 Hosting
 
 > Coming soon™
